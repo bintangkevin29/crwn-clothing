@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/crwn-clothing/precache-manifest.3913329ab0bc58e6ed9c610061620f78.js"
+  "/crwn-clothing/precache-manifest.82b1fc4b819e144d70f5416c8bc30e8c.js"
 );
 
 self.addEventListener('message', (event) => {
